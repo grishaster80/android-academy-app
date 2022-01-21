@@ -22,6 +22,7 @@ object Versions {
     // Plugins
     const val androidToolsPlugin = "7.0.4"
     const val versionsPlugin = "0.41.0"
+    const val detekt = "1.19.0"
 
     // Android libraries
     const val androidCore = "1.7.0"
@@ -44,6 +45,7 @@ object Versions {
 object Plugins {
     const val androidPlugin = "android"
     const val appPlugin = "com.android.application"
+    const val detekt = "io.gitlab.arturbosch.detekt"
     const val kapt = "kapt"
     const val hiltPlugin = "dagger.hilt.android.plugin"
     const val serializationPlugin = "plugin.serialization"
